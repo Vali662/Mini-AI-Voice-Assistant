@@ -30,7 +30,7 @@ This project is a Python-based Mini AI Voice Assistant that can understand voice
 
 ## Demo
 (Click Here to Watch Demo Video)
-[https://drive.google.com/file/d/1S1xEhyAFsvPfQqwG7mR_lxhyWrnKBkJq/view?usp=drivesdk]
+https://drive.google.com/file/d/1S1xEhyAFsvPfQqwG7mR_lxhyWrnKBkJq/view?usp=drivesdk
 
 ## Learning Outcomes
 - Improved Python programming skills
